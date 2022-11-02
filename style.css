@@ -1,0 +1,24 @@
+h1 {
+    color: #0606e8;
+    font-family: "Arial Nova Cond","sans-serif";
+    font-size: 50px;
+    letter-spacing: normal;
+    font-weight: bold;
+}
+.para{
+    background-color: #f11414;
+    font-style: italic;
+    text-decoration-line: underline;
+    letter-spacing: .2rem;
+}
+#premier{
+    font-family: "Courier New", "sans-serif";
+    font-size: 16px;
+    letter-spacing: -1px;
+    background-color: #90fd24;
+}
+p{
+    font-family: "Georgia Pro","sans-serif";
+    font-size: smaller;
+    font-weight: lighter;
+}
